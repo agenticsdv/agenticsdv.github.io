@@ -2,4 +2,6 @@
 
 Hub for Gen AI Apps, Agentic AI for Software Defined Vehicles
 
-- [MCP Tools for Automotive](mcp)
+- [MCP for Automotive](mcp)
+
+> Initator & Primary Contributor : Rajesh Sola (https://github.com/rajeshsola) [rajeshsola@gmail.com](mailto:rajeshsola@gmail.com)
